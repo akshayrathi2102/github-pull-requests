@@ -116,9 +116,7 @@ public extension API {
         return .GET
     }
     var headers: [String: String]? {
-        return [
-            "authorization":"token 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"
-        ]
+        return nil
     }
     var body: [String: String]? {
         return nil
