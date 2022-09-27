@@ -1,0 +1,21 @@
+PODS:
+  - AKDatabaseManager (1.0.0)
+  - AKNetworkManager (1.0.0)
+
+DEPENDENCIES:
+  - AKDatabaseManager (from `AKDatabaseManager/`)
+  - AKNetworkManager (from `AKNetworkManager/`)
+
+EXTERNAL SOURCES:
+  AKDatabaseManager:
+    :path: AKDatabaseManager/
+  AKNetworkManager:
+    :path: AKNetworkManager/
+
+SPEC CHECKSUMS:
+  AKDatabaseManager: 0a4b57c8545343e9c1f6399ae71aff2afc2d8b3c
+  AKNetworkManager: 516d873d1de001f6da174b239c8464ed2e955768
+
+PODFILE CHECKSUM: 0d650b30041de6a0385add42c27d1787698ae8d8
+
+COCOAPODS: 1.11.3
